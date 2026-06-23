@@ -1,0 +1,16 @@
+sku_id,product_name,category,unit_cost,reorder_point,max_stock
+SKU1000,Moisturizer,Skincare,79.62,56,1363
+SKU1001,Sunscreen,Skincare,35.43,85,1009
+SKU1002,Face Wash,Skincare,83.79,189,978
+SKU1003,Serum,Skincare,74.14,58,861
+SKU1004,Toner,Skincare,18.49,109,1834
+SKU1005,Shampoo,Haircare,75.43,193,1207
+SKU1006,Conditioner,Haircare,88.19,189,1659
+SKU1007,Hair Oil,Haircare,32.69,200,1369
+SKU1008,Hair Mask,Haircare,98.66,51,1126
+SKU1009,Dry Shampoo,Haircare,86.19,137,1369
+SKU1010,Foundation,Cosmetics,25.41,136,1009
+SKU1011,Lipstick,Cosmetics,18.39,74,1535
+SKU1012,Mascara,Cosmetics,102.92,117,888
+SKU1013,Blush,Cosmetics,89.73,187,1055
+SKU1014,Eyeliner,Cosmetics,116.99,146,961
